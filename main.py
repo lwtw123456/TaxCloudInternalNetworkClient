@@ -97,7 +97,7 @@ class CloudLoginClient:
                           "Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586",
             "Referer": f"http://{self.server_address}/",
             "Accept-Language": "zh-CN",
-            "Host": "141.28.16.127",
+            "Host": self.server_address,
             "Connection": "Close",
             "Accept-Encoding": "gzip, deflate",
         }
