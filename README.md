@@ -42,7 +42,7 @@
 - ttkbootstrap
 - requests
 - Pillow
-- segno（二维码）
+- segno
 
 ## 📦 项目结构
 
