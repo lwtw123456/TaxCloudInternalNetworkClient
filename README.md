@@ -90,7 +90,7 @@ python main.py
 - 配置信息仅保存在同目录下 `config.ini`
 - 本项目仅作为客户端工具，不包含服务端实现
 
-## 📜 License
+## 📜 开源协议
 
 MIT License
 
